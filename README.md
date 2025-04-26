@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋 I'm Will</h1>
 
 Currently, I am a
-
-- data scientist / consultant at Bates White
-
-- startup contractor at Human Chemical Company
-
-- researcher at AbbVie / Northwestern
+- 📊 data scientist / consultant at Bates White
+- 💻 software engineer at Human Chemical Company
+- 🏢 researcher at AbbVie / Northwestern
 
 I'm interested in:
-
-- startups
-
-- mathematics and finance
-
-- machine learning
-
-- chemistry
+- 🧠 artificial intelligence
+- 🧮 mathematics and finance
+- 🤖 machine learning
+- 🧪 chemistry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
