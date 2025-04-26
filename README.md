@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Will</h1>
 
-I am a Northwestern graduate in Mathematics. 
+I am a Northwestern graduate triple major in Mathematics, Mathematical Methods in the Social Sciences, and Economics. 
 
 Currently, I am a
 - 📊 data scientist / consultant at Bates White
