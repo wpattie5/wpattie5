@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">A passionate builder. Interested in math and machine learning.</h3>
+<h1 align="center">Hi 👋 I'm Will</h1>
+
+Currently, I am a
+
+- data scientist / consultant at Bates White
+
+- startup contractor at Human Chemical Company
+
+- researcher at AbbVie / Northwestern
+
+I'm interested in:
+
+- startups
+
+- mathematics and finance
+
+- machine learning
+
+- chemistry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
