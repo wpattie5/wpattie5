@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Will</h1>
 
+I am a Northwestern graduate in Mathematics. 
+
 Currently, I am a
 - 📊 data scientist / consultant at Bates White
 - 💻 software engineer at Human Chemical Company
