@@ -3,9 +3,7 @@
 I am a Northwestern graduate triple major in Mathematics, Mathematical Methods in the Social Sciences, and Economics. 
 
 Currently, I am a
-- 📊 data scientist / consultant at Bates White
-- 💻 software engineer at a stealth startup
-- 🏢 researcher at AbbVie / Northwestern
+- 📊 Machine Learning Engineer at Output Biosciences
 
 I'm interested in:
 - 🧠 artificial intelligence
